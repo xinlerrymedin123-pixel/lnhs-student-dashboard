@@ -108,16 +108,16 @@ body {
 .assessment-section { margin-bottom: 15px; }
 
 .section-header {
-    color: white;
+    color: rgb(0, 0, 0);
     text-align: center;
     font-weight: bold;
     padding: 5px;
     font-size: 14px;
 }
 
-.ww-header { background-color: #D32F2F; }
-.pt-header { background-color: #F57C00; }
-.ex-header { background-color: #1976D2; }
+.ww-header { background-color: #7ce68a; }
+.pt-header { background-color: #7ce68a; }
+.ex-header { background-color: #7ce68a; }
 
 .score-table {
     width: 100%;
@@ -141,17 +141,17 @@ body {
 
 .domain-cognitive {
     background-color: #ffe6e6 !important;
-    color: #b00;
+    color: rgb(0, 0, 0);
 }
 
 .domain-affective {
     background-color: #fff4e6 !important;
-    color: #b35900;
+    color: #000000;
 }
 
 .domain-behavioral {
     background-color: #e6f4ff !important;
-    color: #004d99;
+    color: #000000;
 }
 
 /* Number row */
